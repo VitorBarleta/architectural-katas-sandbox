@@ -1,5 +1,7 @@
 # Agile Dead Trees: choosing a database for the order processing microservice
 
+Status: Approved
+
 ## Context
 
 The orders processing microservice is responsible for processing the orders of users. An order can have multiple items.

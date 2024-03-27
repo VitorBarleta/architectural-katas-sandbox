@@ -1,5 +1,7 @@
 # Agile Dead Trees: Choosing a database for the review microservice
 
+Status: Approved
+
 ## Context
 
 The review microservice is responsible for allowing reviewers write comments about a chapter and later this comments will be reviewed by the author and can be accepted of rejected.

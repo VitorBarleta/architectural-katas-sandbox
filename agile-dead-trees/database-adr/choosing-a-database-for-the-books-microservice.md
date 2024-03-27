@@ -1,5 +1,7 @@
 # Agile Dead Trees: Choosing a database technology for the Books microservice
 
+Status: Approved
+
 ## Context
 
 The books microservice is responsible for storing the books. The data is very simple but its size can be really big since books can be hundreds and even thousands of pages long.

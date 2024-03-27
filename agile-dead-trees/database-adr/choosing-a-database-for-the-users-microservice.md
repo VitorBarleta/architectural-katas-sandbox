@@ -1,5 +1,7 @@
 # Agile Dead Trees: Users microservice database choice
 
+Status: Approved
+
 ## Context
 
 The users microservice will handle user creation, update, login, permissions, password reset and others. Given that the data is highly relational, the best solution is to go with a relational database such as PostgreSQL.
